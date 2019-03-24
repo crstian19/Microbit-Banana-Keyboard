@@ -27,3 +27,8 @@
 ### Step 10 - Test the keyboard
 
 https://makecode.microbit.org/_FohTPC79FFhP
+
+
+
+An other Microbit code:
+- Snake game https://www.thingiverse.com/thing:2810596
