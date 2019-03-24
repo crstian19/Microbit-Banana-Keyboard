@@ -26,4 +26,4 @@
 
 ### Step 10 - Test the keyboard
 
-https://makecode.microbit.org/_66geiXPEhLua
+https://makecode.microbit.org/_FohTPC79FFhP
