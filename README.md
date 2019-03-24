@@ -31,4 +31,4 @@ https://makecode.microbit.org/_FohTPC79FFhP
 
 
 An other Microbit code:
-- Snake game https://www.thingiverse.com/thing:2810596
+- Snake game https://makecode.microbit.org/_6T6KfxHk6Lzq
